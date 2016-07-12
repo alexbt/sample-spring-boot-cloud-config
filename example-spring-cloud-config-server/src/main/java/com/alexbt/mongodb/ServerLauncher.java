@@ -6,11 +6,11 @@ import org.springframework.cloud.config.server.EnableConfigServer;
 
 @SpringBootApplication
 @EnableConfigServer
-public class Launcher {
+public class ServerLauncher {
 	
 	public static void main(String[] args){
 		new SpringApplicationBuilder() //
-		.sources(Launcher.class)//
+		.sources(ServerLauncher.class)//
 		.profiles("remote")
 		.run(args)	;
 	}
