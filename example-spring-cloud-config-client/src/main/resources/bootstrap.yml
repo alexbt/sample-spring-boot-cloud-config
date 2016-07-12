@@ -1,0 +1,12 @@
+server:
+  port:8080
+spring:
+  application:
+    name: application
+  profiles:
+    active: remote
+  cloud:
+    config:
+       env: remote
+       label: master
+       uri: http://localhost:8888
