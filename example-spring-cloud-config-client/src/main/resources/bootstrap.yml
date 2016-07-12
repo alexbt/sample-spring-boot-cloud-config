@@ -10,3 +10,4 @@ spring:
        env: remote
        label: master
        uri: http://localhost:8888
+       searchPaths: spring.cloud.config.server.git.searchPaths/server-config
