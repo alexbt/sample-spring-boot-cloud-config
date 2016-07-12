@@ -1,4 +1,4 @@
-package com.alexbt.mongodb;
+package com.alexbt.cloudconfig.server;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;

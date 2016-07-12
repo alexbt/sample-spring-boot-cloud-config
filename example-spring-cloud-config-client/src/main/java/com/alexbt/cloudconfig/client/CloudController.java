@@ -1,4 +1,4 @@
-package com.alexbt.mongodb;
+package com.alexbt.cloudconfig.client;
 
 import java.io.IOException;
 

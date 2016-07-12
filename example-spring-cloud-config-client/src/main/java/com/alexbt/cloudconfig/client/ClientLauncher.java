@@ -1,4 +1,4 @@
-package com.alexbt.mongodb;
+package com.alexbt.cloudconfig.client;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
