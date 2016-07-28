@@ -9,7 +9,7 @@
 	</parent>
 	
 	<groupId>com.alexbt</groupId>
-	<artifactId>example-spring-cloud-config</artifactId>
+	<artifactId>helloworld-spring-boot-cloud-config</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>pom</packaging>
 
@@ -25,8 +25,8 @@
 	</properties>
 	
 	<modules>
-	<module>example-spring-cloud-config-server</module>
-	<module>example-spring-cloud-config-client</module>
+	<module>helloworld-spring-boot-cloud-config-server</module>
+	<module>helloworld-spring-boot-cloud-config-client</module>
 	</modules>
 
 	<dependencyManagement>
