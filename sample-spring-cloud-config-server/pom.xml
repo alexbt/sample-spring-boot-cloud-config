@@ -4,11 +4,11 @@
 
 	<parent>
 		<groupId>com.alexbt</groupId>
-		<artifactId>helloworld-spring-boot-cloud-config</artifactId>
+		<artifactId>sample-spring-boot-cloud-config</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	
-	<artifactId>helloworld-spring-boot-cloud-config-server</artifactId>
+	<artifactId>sample-spring-boot-cloud-config-server</artifactId>
 	<packaging>jar</packaging>
 
 	<dependencies>
